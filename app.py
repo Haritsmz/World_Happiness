@@ -108,7 +108,7 @@ with c1:
     st.pyplot(fig11)
 with c2:
     st.subheader('Hasilnya:')
-    st.markdown(':orange[_Hasil korelasi ini menunjukkan bahwa enam faktor yaitu pendapatan per kapita (gdp), kesehatan (health), kebebasan (freedom), kemurahan hati (generosity), dan persepsi terhadap korupsi (corruption) semuanya berkorelasi dengan tingkat kebahagiaan. Faktor-faktor ini tetap penting dalam mempengaruhi kebahagiaan suatu negara. Namun, hubungan sosial, solidaritas, dukungan sosial, dan kualitas interaksi sosial memiliki peran yang lebih dominan dalam menentukan tingkat kebahagiaan suatu negara._]')
+    st.markdown(':orange[_Hasil korelasi ini menunjukkan bahwa enam faktor yaitu pendapatan per kapita (gdp), kesehatan (health), dukungan sosial (social support), kebebasan (freedom), kemurahan hati (generosity), dan persepsi terhadap korupsi (corruption) semuanya berkorelasi dengan tingkat kebahagiaan. Faktor-faktor ini tetap penting dalam mempengaruhi kebahagiaan suatu negara. Namun, hubungan sosial, solidaritas, dukungan sosial, dan kualitas interaksi sosial memiliki peran yang lebih dominan dalam menentukan tingkat kebahagiaan suatu negara._]')
 
 st.write('**Kesimpulan:**')
 st.write('1. Faktor Dukungan Sosial (social support): Memiliki korelasi tertinggi dengan tingkat kebahagiaan, menunjukkan bahwa jaringan sosial dan dukungan dari masyarakat sangat berpengaruh terhadap kebahagiaan individu.')
